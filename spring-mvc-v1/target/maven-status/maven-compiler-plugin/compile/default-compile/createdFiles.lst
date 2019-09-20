@@ -1,0 +1,4 @@
+laptrinhjavaweb\controller\HelloWorldController.class
+com\laptrinhjavaweb\config\AppConfig.class
+com\laptrinhjavaweb\config\SpringMvcDispatcherServletInitializer.class
+com\laptrinhjavaweb\model\HelloWorld.class
